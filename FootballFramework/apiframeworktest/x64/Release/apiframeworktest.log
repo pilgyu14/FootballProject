@@ -1,0 +1,88 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 디렉터리가 슬래시로 끝나지 않습니다. Output 디렉터리의 적절한 평가를 허용하는 데 필요하므로 이 빌드 인스턴스에서 슬래시를 추가합니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 중간 디렉터리(x64\Release\)에 다른 프로젝트(apiframeworktest.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  DiveCollider.cpp
+  DiveState.cpp
+  Animation.cpp
+C:\Football\FootballFramework\apiframeworktest\Animation.cpp(32,35): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Animator.cpp
+  Arrow.cpp
+C:\Football\FootballFramework\apiframeworktest\Arrow.cpp(35,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Football\FootballFramework\apiframeworktest\Arrow.cpp(35,12): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Ball.cpp
+  Collider.cpp
+  CollisionMgr.cpp
+  Core.cpp
+  EventMgr.cpp
+  Flag.cpp
+C:\Football\FootballFramework\apiframeworktest\Flag.cpp(90,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Football\FootballFramework\apiframeworktest\Flag.cpp(90,11): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Football\FootballFramework\apiframeworktest\Flag.cpp(104,53): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Football\FootballFramework\apiframeworktest\Flag.cpp(106,55): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  func.cpp
+  Goal.cpp
+C:\Football\FootballFramework\apiframeworktest\Goal.cpp(37,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Football\FootballFramework\apiframeworktest\Goal.cpp(37,11): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GoalCircle.cpp
+C:\Football\FootballFramework\apiframeworktest\GoalCircle.cpp(35,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Football\FootballFramework\apiframeworktest\GoalCircle.cpp(35,11): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GoalText.cpp
+  IdleState.cpp
+  Image.cpp
+  InGameUI.cpp
+C:\Football\FootballFramework\apiframeworktest\InGameUI.cpp(105,59): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Football\FootballFramework\apiframeworktest\InGameUI.cpp(106,61): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Football\FootballFramework\apiframeworktest\InGameUI.cpp(110,61): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Football\FootballFramework\apiframeworktest\InGameUI.cpp(111,61): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Football\FootballFramework\apiframeworktest\InGameUI.cpp(118,63): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Football\FootballFramework\apiframeworktest\InGameUI.cpp(120,63): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  KeyMgr.cpp
+  main.cpp
+  Object.cpp
+  Outline.cpp
+  PathMgr.cpp
+C:\Football\FootballFramework\apiframeworktest\PathMgr.cpp(17,35): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  pch.cpp
+  Player.cpp
+C:\Football\FootballFramework\apiframeworktest\Player.cpp(101,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Football\FootballFramework\apiframeworktest\Player.cpp(101,12): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Res.cpp
+  ResMgr.cpp
+  RunState.cpp
+  Scene.cpp
+  SceneMgr.cpp
+  Scene_Stage.cpp
+  Scene_Start.cpp
+  Scene_InGame.cpp
+  SelectGDI.cpp
+  Sound.cpp
+  SoundMgr.cpp
+  Staduim.cpp
+C:\Football\FootballFramework\apiframeworktest\Staduim.cpp(31,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Football\FootballFramework\apiframeworktest\Staduim.cpp(31,11): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StageData.cpp
+  StageMgr.cpp
+  StartPlayer.cpp
+C:\Football\FootballFramework\apiframeworktest\StartPlayer.cpp(37,20): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StartSceneText.cpp
+C:\Football\FootballFramework\apiframeworktest\StartSceneText.cpp(32,72): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Football\FootballFramework\apiframeworktest\StartSceneText.cpp(36,74): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Football\FootballFramework\apiframeworktest\StartSceneText.cpp(41,78): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  State.cpp
+  StateMachine.cpp
+  TackleState.cpp
+  Goalkeeper.cpp
+  TimeMgr.cpp
+  TouchLine.cpp
+  Vec2.cpp
+C:\Football\FootballFramework\apiframeworktest\Vec2.cpp(26,5): warning C4244: '초기화 중': 'long'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Football\FootballFramework\apiframeworktest\Vec2.cpp(27,5): warning C4244: '초기화 중': 'long'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  VSIcon.cpp
+C:\Football\FootballFramework\apiframeworktest\VSIcon.cpp(31,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Football\FootballFramework\apiframeworktest\VSIcon.cpp(31,11): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BWindow.cpp
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+C:\Football\FootballFramework\apiframeworktest\Goalkeeper.cpp(236): warning C4715: 'Goalkeeper::CheckIsBallRight': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  All 1512 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  apiframeworktest.vcxproj -> C:\Football\FootballFramework\OutPut\bin\Gamep_winapiframework.exe
